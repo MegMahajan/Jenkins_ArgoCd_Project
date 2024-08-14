@@ -62,3 +62,8 @@ systemctl restart docker
 http://<ec2-instance-public-ip>:8080/restart
 
 The docker agent configuration is now successful.
+
+install minikube locally and start wiht hyper kit 
+
+go to operatorhub.io
+then argoCD copy the command and paste in your terminal
